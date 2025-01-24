@@ -1,1 +1,1 @@
-# Hangman-Game
+# Small Python Projects
